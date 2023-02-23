@@ -1,0 +1,8 @@
+openapi: 3.0.3
+servers:
+- url: http://localhost:9279/
+  description: url Local
+- url: https://dev.nttdata.com/mscustomer/
+  description: url Desarrollo
+- url: https://nttdata.com/mscustomer/
+  description: url Produccion
